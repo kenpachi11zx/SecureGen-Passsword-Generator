@@ -13,7 +13,6 @@ SecureGen is a sleek, fast, and customizable password generator web app built us
 - 📋 One-click "copy to clipboard"
 - 💡 Live password strength indicator
 - ⚡ Lightning-fast with responsive design
-- ☁️ Frontend hosted on **Vercel**
 - 🐍 Backend API (optional) powered by **Python (FastAPI/Flask)** *(host separately if needed)*
 
 ---
@@ -94,7 +93,7 @@ Use [Render](https://render.com), [Railway](https://railway.app), or [Replit](ht
 
 ## 👨‍💻 Credits
 
-> Built with ❤️ by **[Your Name]**  
+> Built with ❤️ by **[Kenpachi]**  
 > Special thanks to Next.js, Tailwind CSS, and OpenAI for development inspiration.
 
 ---
