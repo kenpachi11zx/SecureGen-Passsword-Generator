@@ -72,25 +72,6 @@ This file handles:
 
 ---
 
-## 🌐 Deployment
-
-### 🖥️ Frontend
-
-- Push this repo to [GitHub](https://github.com/)
-- Connect it to [Vercel](https://vercel.com) for automatic deployment
-
-### 🔙 Optional Backend (Python)
-
-Use [Render](https://render.com), [Railway](https://railway.app), or [Replit](https://replit.com) for Python-based password logic.
-
----
-
-## 📎 Live Website
-
-🔗 **Visit it here**: [https://securegen.vercel.app](https://securegen.vercel.app) *(replace with your actual deployed link)*
-
----
-
 ## 👨‍💻 Credits
 
 > Built with ❤️ by **[Kenpachi]**  
